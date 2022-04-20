@@ -69,3 +69,32 @@ h1{
 .even-line-color{
     background-color: white;
 }
+
+/* footer */
+.title-color{
+    color: grey;
+}
+
+.background-pc{
+    color: white;
+    background-image: url("../img/monitor.jpg") ;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin-top: 10PX;
+    margin-bottom: -25px;
+}
+
+.inside-title1{
+    padding: 10px;
+}
+
+.background-graph{
+    color: white;
+    background-image: url("../img/graph.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+.inside-title2{
+    padding: 10px;
+}
