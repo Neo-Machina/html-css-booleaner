@@ -34,7 +34,7 @@ h1{
 }
 
 .color-word{
-    color: aqua;
+    color: LightSkyBlue;
 }
 
 .thin{
@@ -63,7 +63,11 @@ h1{
 }
 
 .odd-line-color{
-    background-color: Aquamarine;
+    background-color: LightSkyBlue;
+}
+
+th{
+    text-align: left;
 }
 
 .even-line-color{
