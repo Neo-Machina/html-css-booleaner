@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.with-back-image{
+   background-image: url("../img/pattern.png");
+   background-color: dodgerblue;
+   width: 500PX;
+   background-repeat: repeat;
+    
+}
