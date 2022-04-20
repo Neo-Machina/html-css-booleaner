@@ -18,3 +18,54 @@
 }
 
 /* main */
+.container{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+/* Titolo e autore */
+h1{
+    font-size: 60px;
+}
+
+.author{
+    color:grey;
+    font-weight: bold;
+}
+
+.color-word{
+    color: aqua;
+}
+
+.thin{
+    font-weight: normal;
+}
+
+/* paragrafi */
+.paragraph{
+    margin-top: 20px;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+/* unorder list */
+.list{
+    
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* tabella */
+.line-color{
+    background-color: DeepSkyBlue;
+}
+
+.odd-line-color{
+    background-color: Aquamarine;
+}
+
+.even-line-color{
+    background-color: white;
+}
