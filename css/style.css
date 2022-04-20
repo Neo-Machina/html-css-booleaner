@@ -8,7 +8,13 @@
 .with-back-image{
    background-image: url("../img/pattern.png");
    background-color: dodgerblue;
-   width: 500PX;
-   background-repeat: repeat;
-    
+   height: 180px;
 }
+
+.logo{
+    width: 280px;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+/* main */
