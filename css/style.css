@@ -7,7 +7,7 @@
 /* header */
 .with-back-image{
    background-image: url("../img/pattern.png");
-   background-color: dodgerblue;
+   background-color: #4ea0ff;
    height: 180px;
 }
 
@@ -34,7 +34,7 @@ h1{
 }
 
 .color-word{
-    color: LightSkyBlue;
+    color: #4ab9ea;
 }
 
 .thin{
@@ -59,11 +59,12 @@ h1{
 
 /* tabella */
 .line-color{
-    background-color: DeepSkyBlue;
+    background-color: #20a9e5;
+    color: white;
 }
 
 .odd-line-color{
-    background-color: LightSkyBlue;
+    background-color: #b1e5f2;
 }
 
 th{
